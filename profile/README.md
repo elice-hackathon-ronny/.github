@@ -13,4 +13,4 @@ https://github.com/elice-hackathon-ronny/.github/assets/73745836/85c36608-cc8c-4
 
 ## 발표 자료
 
-[(link)](https://github.com/elice-hackathon-ronny/.github/blob/main/file/presentation.pdf)
+[![presentation_thumbnail](https://github.com/elice-hackathon-ronny/.github/assets/73745836/377567cd-62ef-4472-bbd6-09571b9cbd21) <br> (link)](https://github.com/elice-hackathon-ronny/.github/blob/main/file/presentation.pdf)
